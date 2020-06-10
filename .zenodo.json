@@ -1,0 +1,24 @@
+{
+    "title": "Data and Code Accompanying the Study \"Developing an annotation framework for word formation processes in comparative linguistics\"",
+    "access_right": "open",
+    "keywords": [
+        "historical linguistics",
+	"computer-assisted language comparison",
+        "word formation"
+    ],
+    "creators": [
+        {
+            "name": "Nathanael E. Schweikhard"
+        },
+        {
+            "name": "Johann-Mattis List"
+        }
+    ],
+    "contributors": [],
+    "communities": [
+      "calc",
+      "digh"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Schweikhard, N. E. and List, J.-M. (2020): Developing an annotation framework for word formation processes in comparative linguistics. SKASE Journal of Theoretical Linguistics. 17.1: 2-26.</p>\n</blockquote>"
+}
