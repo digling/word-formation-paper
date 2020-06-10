@@ -1,0 +1,52 @@
+ID	CONCEPT	DOCULECT	TOKENS	MORPHEMES	COGIDS	CROSSIDS	ROOTIDS
+6175	the mouse or rat	Xiandao	k ʐ o ʔ ⁵⁵	k-vermin	190	4	16
+6185	the mouse or rat	Achang_Longchuan	k ʐ o ʔ ⁵⁵	k-vermin	190	4	16
+6226	the mouse or rat	Bola	ɣ ɔ ʔ ³¹ + n a ʔ ³¹	k-vermin black	190 1872	4 88	16 88
+6407	the mouse or rat	Rangoon	tɕ wɛ/uɛ ʔ ⁴	k-vermin	190	4	16
+6461	the mouse or rat	Atsi	ŋ ĕ ²¹ + n o ʔ ²¹	mouse black	1957 1872	707 88	707 88
+6566	the mouse or rat	Maru	ɣ u k ³¹ + n ɔ ʔ ³¹	k-vermin black	190 1872	4 88	16 88
+6647	the mouse or rat	Lashi	k j ĭ ²¹ + n ɔ ʔ ³¹	k-vermin black	190 1872	4 88	16 88
+7332	the mouse or rat	Old_Burmese	k r o k ⁴	k-vermin	190	4	16
+2534	the meat	Achang_Longchuan	ʂ ua ³¹	meat	270	37	37
+2535	the meat	Atsi	ʃ o ²¹	meat	270	37	37
+2536	the meat	Bola	ʃ a ³⁵	meat	270	37	37
+2537	the meat	Lashi	ʃ o ⁵⁵	meat	270	37	37
+2538	the meat	Maru	ʃ ɔ ³⁵	meat	270	37	37
+2539	the meat	Xiandao	ʂ ɔ ³¹	meat	270	37	37
+5457	the meat	Rangoon	ɑ ⁵³ + tθ ɑ ⁵⁵	a-prefix meat	1753 270	11 37	11 37
+7322	the meat	Old_Burmese	a ⁵³ + s a ⁵⁵	a-prefix meat	1753 270	11 37	11 37
+487	the bone	Bola	ʃ ă ³⁵ + u ³¹	meat bone	88 89	414 110	37 110
+490	the bone	Lashi	ʃ ŏ ⁵⁵ + j ou ³³	meat bone	88 89	414 110	37 110
+493	the bone	Maru	ʃ ŏ ³⁵ + ɣ u k ⁵⁵	meat bone	88 89	414 110	37 110
+5668	the bone	Rangoon	ɑ ⁵³ + j o ⁵⁵	a-prefix bone	1781 89	11 110	11 110
+7229	the bone	Old_Burmese	r əw ⁵⁵	bone	89	110	110
+2063	to hunt	Achang_Longchuan	tɕʰ e t ⁵⁵ + t au ʔ ⁵⁵	deer hunt-suffix	921 922	2504 33	2504 33
+2065	to hunt	Atsi	ʃ ŏ ²¹ + p i k ²¹	meat shoot	924 925	414 35	37 35
+2066	to hunt	Bola	ʃ ă ³⁵ + p a k ³¹	meat shoot	924 925	414 35	37 35
+2068	to hunt	Lashi	ʃ o ⁵⁵ + p əː ³¹	meat shoot	927 925	37 35	37 35
+2069	to hunt	Maru	ʃ ɔ̆ ³⁵ + p a k ³¹	meat shoot	924 925	414 35	37 35
+2071	to hunt	Xiandao	ʂ ɔ ³¹ + p ɤ k ⁵⁵	meat shoot	927 925	37 35	37 35
+4220	the tail	Achang_Longchuan	tɕʰ i ³¹ + ȵ/n ∅/j a ŋ ³⁵	excrement tail	1651 1652	28 38	28 38
+4223	the tail	Atsi	ʃ ŏ ²¹ + m j i ²¹	meat tail	1653 354	414 39	37 39
+4226	the tail	Bola	ʃ ă ³⁵ + m i ³¹	meat tail	1653 354	414 39	37 39
+4231	the tail	Lashi	ʃ ŏ ⁵⁵ + m j i ³³	meat tail	1653 354	414 39	37 39
+4234	the tail	Maru	ʃ ɔ̆ ³⁵ + m j i ³¹	meat tail	1653 354	414 39	37 39
+4237	the tail	Xiandao	n̥ i ³¹ + ʈʂʰ ɔ ³¹	tail k-tail	1656 1657	48 49	48 49
+5271	the tail	Rangoon	ɑ ⁵³ + m j i ⁵⁵	a-prefix tail	1738 354	11 39	11 39
+7401	the tail	Old_Burmese	m r i ⁵⁵	tail	354	39	39
+6153	the frost	Achang_Longchuan	ŋ̊ a n ⁵⁵	frost	1820	75	75
+6211	the frost	Maru	ŋ/ˀŋ a̰/a ŋ ³¹	dew-frost	1820	75	75
+6297	the frost	Atsi	ŋ/ˀŋ a̰/a n ⁵¹ + pʰ j u ⁵¹	cold-thing white	1820 1821	75 180	75 180
+6323	the frost	Bola	ŋ/ˀŋ ɛ̰̃/ɛ ∼ ⁵⁵	icy-thing	1820	75	75
+6486	the frost	Lashi	ŋ/ˀŋ a̰/a n ³³ + pʰ i/j u ³³	icy-thing white	1820 1821	75 180	75 180
+6543	the frost	Xiandao	ŋ̊ a n ⁵⁵	frost	1820	75	75
+6592	the frost	Rangoon	n̥ ĩ/i ∼ ⁵⁵ + kʰ ɛ ⁵⁵	frost frozen	1820 1990	75 740	75 740
+7276	the frost	Old_Burmese	n̥ a ŋ ⁵⁵	icy-thing	1820	75	75
+6212	the dew	Maru	ŋ/ˀŋ a̰/a ŋ ³¹	dew-frost	312	75	75
+6233	the dew	Rangoon	n̥ ĩ/i ∼ ⁵⁵	icy-thing	312	75	75
+6268	the dew	Achang_Longchuan	tsʰ e ³¹	dew	1893	610	610
+6298	the dew	Atsi	ŋ/ˀŋ a̰/a n ⁵¹	cold-thing	312	75	75
+6487	the dew	Lashi	ŋ/ˀŋ a̰/a n ³³ + tʃ u ⁵⁵	icy-thing dew	312 2024	75 714	75 714
+6544	the dew	Xiandao	tsʰ ɛ ³¹	dew	1893	610	610
+6599	the dew	Bola	ŋ/ˀŋ ɛ̰̃/ɛ ∼ ⁵⁵	icy-thing	312	75	75
+7239	the dew	Old_Burmese	n̥ a ŋ ⁵⁵	icy-thing	312	75	75

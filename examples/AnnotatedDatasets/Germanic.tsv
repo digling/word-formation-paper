@@ -1,0 +1,93 @@
+ID	ORIGINAL CONCEPT	CONCEPT	DOCULECT	VALUE	FORM	COMMENT	CONCEPTICON_ID	TOKENS	MORPHEMES	COGIDS	CROSSIDS	ROOTIDS	WORDFAMILY	GLOSSES	ALIGNMENT
+1	spin	SPIN	Old Norse	spinna	spinna		121	s p i nː + a	spin _a-verb	4 5	28 5	28 5	1	spinː _a	s p i nː + a
+2	to spin	SPIN	Old High German	spinnan	spinnan		121	s p i nː + a + n	spin _a-verb _n-inf	4 5 2006	28 5 97	28 5 97	1	spinː _a _n	s p i nː + a + n
+3	the spider	SPIDER	Old High German	spinna	spinna		843	s p i nː + a	spin _a-nom	105 106	28 30	28 30	1	spinː _a_B	s p i nː + a
+4	the spider web	SPIDER WEB	Old High German	spinnawebbi	spinnawebbi		1065	s p i nː + a + w e bː + i	spin _a-nom web _i-nom	91 92 93 94	28 30 31 41	28 30 31 41	1	spinː _a_B webː _i	s p i nː + a + w e bː + i
+5	spin	SPIN	Gothic	spinnan	spinnan		121	s p ɪ nː + a + n	spin _a-verb _n-inf	4 5 2006	28 5 97	28 5 97	1	spinː _a _n	s p ɪ nː + a + n
+6	the relatives	RELATIVES	Old High German	nâhisto	nāhisto		1644	n aː x + i s t + o	near _superlative _o-nom	44 45 46	9 36 37	9 36 37	2	naːx _ist _o	n aː x + i s t + o
+7	to approach	APPROACH	Old High German	nâhen	nāhen		1778	n aː x + e + n	near _e-verb _n-inf	33 37 36	9 7 97	9 7 97	2	naːx _e _n	n aː x + - e + n
+8	after	AFTER	Old High German	nâh	nāh		1685	n aː x	near	43	9	9	2	naːx	n aː x
+9	beside	BESIDE	Old High German		nāh	was missing	1816	n aː x	near	32	9	9	2	naːx	n aː x
+10	near	NEAR	Old High German	nâh	nāh		1942	n aː x	near	22	9	9	2	naːx	n aː x
+11	the neighbour	NEIGHBOUR	Old High German	nâhgibûr(o)	nāhgibūro		1332	n aː x + g i + b uː r + o	near _perfective dweller _o-nom	80 83 84 82	9 2 40 37	9 2 80 37	2	naːx _gi buːr _o	n aː x + g i + b uː r + o
+12	the neighbour	NEIGHBOUR	Old High German	nâhgibûr(o)	nāhgibūr		1332	n aː x + g i + b uː r	near _perfective dweller	80 83 84	9 2 40	9 2 80	2	naːx _gi buːr	n aː x + g i + b uː r
+13	next	NEXT	Old High German	nâhist	nāhist		1354	n aː x + i s t	next _superlative	78 79	9 36	9 36	2	naːx _ist	n aː x + i s t
+14	approach	APPROACH	Gothic	nehwa qiman	nehwa qiman		1778	n eː hʷ + a + kʷ ɪ m + a + n	near _a-adv come _a-verb _n-inf	33 34 35 127 36	9 10 11 5 97	9 10 11 5 97	2	neːhʷ _a_B kʷim _a _n	n eː hʷ + a + kʷ ɪ m + a + n
+15	near (adv)	NEAR	Gothic	nehw	nehw		1942	n eː hʷ	near	22	9	9	2	neːhʷ	n eː hʷ
+16	near (adv)	NEAR	Gothic	nehwa	nehwa		1942	n eː hʷ + a	near _a-adv	22 23	9 10	9 10	2	neːhʷ _a_B	n eː hʷ + a
+17	enough	ENOUGH	Old High German	ginuog	ginuog		1881	g i + n u o g	_perfective enough	29 30	2 14	2 9	2	_gi nuog	g i + n u o g
+18	enough	ENOUGH	Gothic	ganohs	ganohs		1881	g a + n oː h + s	_perfective enough _s-nom	29 30 31	2 14 3	2 9 3	2	_ga noːh _s	g a + n oː - h + s
+19	enough	ENOUGH	Old Norse	gnōgr	gnōgr		1881	g + n oː g + r	_perfective enough _r-nom	29 30 31	2 14 3	2 9 3	2	_g noːg _r	g + n oː - g + r
+20	neighbor	NEIGHBOUR	Old Norse	nābūi	nābūi		1332	n aː + b uː + i	near dweller _i-nom	80 81 82	9 80 37	9 80 37	2	naː buː _i	n aː + b uː + i
+21	praise	PRAISE	Old Norse	lof	lof		1687	l o f	praise	42	81	17	3	lof	l o f
+22	the praise	PRAISE	Old High German	lob	lob		1687	l o b	praise	42	81	17	3	lob	l o b
+23	to love	LOVE	Old High German	liobôn	liubōn	normalized	923	l i u b + oː + n	love _oː-verb _n-inf	100 101 102	45 34 97	17 34 97	3	liub _oː _n	l i u b + oː + n
+24	poison	POISON	Gothic	lubja-leis	lubi	wrong meaning, replaced	655	l u b + ɪ	poison _ɪ-nom	114 115	17 41	17 41	3	lub _ɪ	l u b + ɪ
+25	sorcerer, witch	MAGICIAN	Gothic	lubjaleis	lubjaleis		2137	l u b + j a + l iː s	poison _ja-fuge knowledgeable	16 17 18	17 19 20	17 19 20	3	lub _ja liːs	l u b + j a + l iː s
+26	magic, witchcraft, sorcery	MAGIC	Gothic	lubjaleisei	lubjaleisei		392	l u b + j a + l iː s + iː	poison _ja-fuge knowledgeable _iː-nom	123 124 125 126	17 19 20 21	17 19 20 21	3	lub _ja liːs _iː	l u b + j a + l iː s + iː
+27	leaf	LEAF	Gothic	laufs	laufs		628	l ɔː ɸ + s	leaf _s-nom	116 117	93 3	17 3	3	lɔːɸ _s	l ɔː - ɸ + s
+28	leaf	LEAF	Old Norse	lauf	lauf		628	l a u f	leaf	116	93	17	3	lauf	l a u f
+29	leaf	LEAF	Old Norse	laufsblað	laufsblað		628	l a u f + s + b l a θ	leaf _s-gen leaf2	116 118 119	93 94 95	17 94 95	3	lauf _s blaθ	l a u f + s + b l a θ
+30	air	AIR	Gothic	luftus	luftus		27	l u ɸ t + u s	air _us-nom	1 3	23 24	17 24	3	luɸt _us	l u ɸ t + u s
+31	the air	AIR	Old High German	luft	luft		27	l u f t	air	1	23	17	3	luft	l u f t
+32	air	AIR	Old Norse	lopt	lopt	according to Kroonen, loft is the cognate, but that's not in dictionaries	27	l o p t	air	1	23	17	3	lopt	l o p t
+33	medicine, drug	MEDICINE	Old Norse	lyf	lyf		1372	l y f	medicine	76	17	17	3	lyf	l y f
+34	the poison	POISON	Old High German	lubbi	lubbi		655	l u bː + i	poison _i-nom	114 115	17 41	17 41	3	lubː _i	l u bː + i
+35	medicine, drug	MEDICINE	Old Norse	lœkningarlyf	lækningarlyf	wrong spelling, corrected	1372	l æː k + n + i n g + a r + l y f	heal _n-suffix _ing-suffix _ar-gen medicine	72 73 74 75 76	90 98 91 92 17	90 98 91 94 17	3	læːk _n_B _ing _ar lyf	l æː k + n + i n g + a r + l y f
+36	the bow	BOW	Old High German	bogo	bogo		994	b o g + o	bow _o-nom	95 96	51 37	52 37	4	bog _o	b o g + o
+37	to twist	TWIST	Old High German	biogan	biogan		430	b i o g + a + n	bend _a-verb _n-inf	120 121 122	52 5 97	52 5 97	4	biog _a _n	b i o g + a + n
+38	to bend	BEND	Old High German	biogan	biogan		2004	b i o g + a + n	bend _a-verb _n-inf	19 20 21	52 5 97	52 5 97	4	biog _a _n	b i o g + a + n
+39	the arch	ARCH	Old High German	bogo	bogo		876	b o g + o	bow _o-nom	103 104	51 37	52 37	4	bog _o	b o g + o
+40	the elbow	ELBOW	Old High German	elinbogo	elinbogo		981	e l i n + b o g + o	ell bow _o-nom	97 98 99	53 51 37	53 52 37	4	elin bog _o	e l i n + b o g + o
+41	the rainbow	RAINBOW	Old High German	reganbogo	reganbogo		1733	r e g a n + b o g + o	rain bow _o-nom	40 41 128	54 51 37	54 52 37	4	regan bog _o	r e g a n + b o g + o
+42	bend	BEND	Gothic	biugan	biugan		2004	b i u g + a + n	bend _a-verb _n-inf	19 20 21	52 5 97	52 5 97	4	biug _a _n	b i u g + a + n
+43	the bracelet	BRACELET	Old High German	armboug	armboug		1754	a r m + b o u g	arm bow2	38 39	55 56	55 52	4	arm boug	a r m + b o u g
+44	armpit	ELBOW	Old Norse	olnbogi	ǫlnbogi	wrong meaning, changed concepticonID (to elbow)	981	ɔ l n + b o g + i	ell bow _i-nom	97 98 99	53 51 37	53 52 37	4	ɔln bog _i	ɔ l - n + b o g + i
+45	bow	BOW	Old Norse	bogi	bogi		994	b o g + i	bow _i-nom	95 96	51 37	52 37	4	bog _i	b o g + i
+46	to drop	DRIP (FALL IN GLOBULES)	Old High German	fellen	fellen		808	f e lː + e + n	drop _e-verb _n-inf	107 108 109	57 7 97	58 7 97	5	felː _e _n	f e lː + e + n
+47	to fall	FALL	Old High German	fallan	fallan		1280	f a lː + a + n	fall _a-verb _n-inf	86 87 88	58 5 97	58 5 97	5	falː _a _n	f a lː + a + n
+48	the trap	TRAP (PITFALL)	Old High German	falla	falla		1075	f a lː + a	fall _a-nom	89 90	58 30	58 30	5	falː _a_B	f a lː + a
+49	fall	FALL	Old Norse	falla	falla		1280	f a lː + a	fall _a-verb	86 87	58 5	58 5	5	falː _a	f a lː + a
+50	to drown	DROWN	Old High German	irtrinkan	irtrinkan		1904	i r + t r i n k + a + n	_ir-prefix drink _a-verb _n-inf	24 25 26 27	62 26 5 97	62 26 5 97	6	_ir trink _a _n	i r + t r i n k + a + n
+51	drunk	DRUNK	Old High German	trunkan	trunkan		1463	t r u n k + a n	drunk _an-ppp	63 64	27 85	26 85	6	trunk _an	t r u n k + a n
+52	to drink	DRINK	Old High German	trinkan	trinkan		1401	t r i n k + a + n	drink _a-verb _n-inf	69 70 71	26 5 97	26 5 97	6	trink _a _n	t r i n k + a + n
+53	the drink	BEVERAGE	Old High German	tranc	tranc		731	t r a n k	beverage	113	65	26	6	trank	t r a n k
+54	drink	DRINK	Gothic	drigkan	drigkan		1401	d r ɪ n k + a + n	drink _a-verb _n-inf	69 70 71	26 5 97	26 5 97	6	drink _a _n	d r ɪ n k + a + n
+55	intoxicated	DRUNK	Gothic	drugkans	drugkans		1463	d r u n k + a n + s	drunk _an-ppp _s-nom	63 64 65	27 85 3	26 85 3	6	drunk _an _s	d r u n k + a n + s
+56	drink	DRINK	Old Norse	drekka	drekka		1401	d r e kː + a	drink _a-verb	69 70	26 5	26 5	6	drekː _a	d r e - kː + a
+57	intoxicated	DRUNK	Old Norse	drukkinn	drukkinn		1463	d r u kː + i n + n	drunk _in-ppp _n-nom	63 64 136	27 85 96	26 85 3	6	drukː _in _n	d r u - kː + i n + n
+58	the corpse	CORPSE	Old High German	lîh(hamo)	līhhamo		767	l iː x + h a m + o	body garment _o-nom	110 111 112	1 68 37	1 68 37	7	liːx ham _o	l iː x + h a m + o
+59	the corpse	CORPSE	Old High German	lîh(hamo)	līh	h corrected	767	l iː x	body	110	1	1	7	liːx	l iː x
+60	the body hair	HAIR (BODY)	Old High German	lîhhâr	līhhār	h corrected	189	l iː x + h aː r	body hair	10 11	1 69	1 69	7	liːx haːr	l iː x + h aː r
+61	the body	BODY	Old High German	lîh	līh		1480	l iː x	body	59	1	1	7	liːx	l iː x
+62	similar	SIMILAR	Old High German	anagilîh	anagilīh		1558	a n a + g i + l iː x	_ana-prefix _perfective body	52 51 49	70 2 1	70 2 1	7	_ana _gi liːx	a n a + g i + l iː x
+63	body	BODY	Gothic	leik	leik		1480	l iː k	body	59	1	1	7	liːk	l iː k
+64	corpse	CORPSE	Gothic	leik	leik		767	l iː k	body	110	1	1	7	liːk	l iː k
+65	like, similar	SIMILAR	Gothic	galeiks	galeiks		1558	g a + l iː k + s	_perfective body _s-nom	51 49 50	2 1 3	2 1 3	7	_ga liːk _s	g a + l iː k + s
+66	body	BODY	Old Norse	līk	līk		1480	l iː k	body	59	1	1	7	liːk	l iː k
+67	corpse	CORPSE	Old Norse	līk	līk		767	l iː k	body	110	1	1	7	liːk	l iː k
+68	body	BODY	Old Norse	līkami	līkami		1480	l iː k + a m + i	body slough _i-nom	59 60 62	1 68 37	1 68 37	7	liːk am _i	l iː k + - a m + i
+69	body	BODY	Old Norse	līkamr	līkamr		1480	l iː k + a m + r	body slough _r-nom	59 60 61	1 68 3	1 68 3	7	liːk am _r	l iː k + - a m + r
+70	like, similar	SIMILAR	Old Norse	līkr	līkr		1558	l iː k + r	body _r-nom	49 50	1 3	1 3	7	liːk _r	l iː k + r
+71	drive	IMPEL	Gothic	draibjan	draibjan	wrong meaning, changed concepticonID (to impel)	3290	d r ɛː b + j a + n	impel _ja-verb _n-inf	134 135 14	6 7 97	8 7 97	8	drɛːb _ja _n	d r ɛː b + j a + n
+72	drive	DISPEL	Gothic	dreiban	dreiban	wrong meaning, changed concepticonID (to dispel)	30	d r iː b + a + n	dispel _a-verb _n-inf	12 13 14	8 5 97	8 5 97	8	driːb _a _n	d r iː b + a + n
+73	to float	FLOAT	Old High German	trîban	trīban		1574	t r iː b + a + n	impel _a-verb _n-inf	48 129 130	8 5 97	8 5 97	8	triːb _a _n	t r iː b + a + n
+74	to drive	IMPEL	Old High German	trîban	trīban	wrong meaning, changed concepticonID (to impel)	3290	t r iː b + a + n	impel _a-verb _n-inf	12 13 14	8 5 97	8 5 97	8	triːb _a _n	t r iː b + a + n
+75	the bread	BREAD	Old High German	brôt	brōt		1368	b r oː t	bread	77	43	16	9	broːt	b r oː - t
+76	to burn(1)	BURN (SOMETHING)	Old High German	brennen	brennen		141	b r e nː + e + n	burn _e-verb _n-inf	7 8 2009	16 7 97	16 7 97	9	brenː _e _n	b r e nː + - e + n
+77	to burn(2)	BURNING	Old High German	brinnan	brinnan		1428	b r i nː + a + n	burn2 _a-verb _n-inf	66 67 68	12 5 97	16 5 97	9	brinː _a _n	b r i nː + a + n
+78	burn (vb trans)	BURN (SOMETHING)	Gothic	brannjan	brannjan		141	b r a nː + j a + n	burn _ja-verb _n-inf	7 8 2009	16 7 97	16 7 97	9	branː _ja _n	b r a nː + j a + n
+79	burn (vb intrans)	BURNING	Gothic	brinnan	brinnan		1428	b r ɪ nː + a + n	burn2 _a-verb _n-inf	66 67 68	12 5 97	16 5 97	9	brinː _a _n	b r ɪ nː + a + n
+80	fever	FEVER	Gothic	brinno	brinno		1534	b r ɪ nː + oː	burn2 _oː-nom	53 54	12 30	16 30	9	brinː _oː	b r ɪ nː + oː
+81	burn (vb trans)	BURN (SOMETHING)	Old Norse	brenna	brenna		141	b r e nː + a	burn _aB-verb	7 8	16 7	16 7	9	brenː _a_B	b r e nː + - a
+82	arson	ARSON	Old Norse	brenna	brenna		1889	b r e nː + a	burn _a-nom	28 131	16 30	16 30	9	brenː _a_C	b r e nː + a
+83	burn (vb intrans)	BURNING	Old Norse	brinna	brinna		1428	b r i nː + a	burn2 _a-verb	66 67	12 5	16 5	9	brinː _a	b r i nː + a
+84	bread	BREAD	Old Norse	brauð	brauð		1368	b r a u θ	bread	77	43	16	9	brauθ	b r a u θ
+85	beer	BEER	Old Norse	bjōrr	bjōrr		1639	b j oː r + r	beer _r-nom	47 132	82 3	16 3	9	bjoːr _r	b j oː r + r
+86	spring, well	SPRING OR WELL	Old Norse	brunnr	brunnr		2144	b r u nː + r	well _r-nom	15 133	83 3	16 3	9	brunː _r	b r u nː + r
+87	the cock/rooster	ROOSTER	Old High German	hano	hano		1511	h a n + o	rooster _o-nom	57 58	22 37	22 37	10	han _o	h a n + o
+88	the hen	HEN	Old High German	henna	henna		1514	h e nː + a	hen _a-nom	55 56	47 30	22 30	10	henː _a	h e nː + a
+89	the chicken	CHICKEN	Old High German	huon	huon		1318	h u o n	chicken	85	48	22	10	huon	h u o n
+90	cock, rooster	ROOSTER	Gothic	hana	hana		1511	h a n + a	rooster _a-nom	57 58	22 37	22 37	10	han _a_C	h a n + a
+91	cock, rooster	ROOSTER	Old Norse	hani	hani		1511	h a n + i	rooster _i-nom	57 58	22 37	22 37	10	han _i	h a n + i
+92	hen	HEN	Old Norse	hœna	hœna		1514	h ø n + a	hen _a-nom	55 56	47 30	22 30	10	høn _a_C	h ø n + a

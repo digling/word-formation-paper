@@ -1,0 +1,61 @@
+ID	FORM	CONCEPT	TOKENS	MORPHEMES	CROSSIDS	ROOTIDS	DOCULECT
+1	aba	mother	a b a	mother	1	1	SanzhiDargwa
+2	ababa	granny; mother's mother	a b a + b a	mother grand	1 2	1 2	SanzhiDargwa
+3	abacːi	uncle	a b a + cː i	mother uncle	1 3	1 3	SanzhiDargwa
+4	abazi	aunt	a b a + z i	mother aunt	1 4	1 4	SanzhiDargwa
+5	acːi	uncle	a cː i	uncle-2	41	3	SanzhiDargwa
+6	atːa	father	a tː a	father	5	5	SanzhiDargwa
+7	atːa-aba	parents	a tː a + a b a	father mother	5 1	5 1	SanzhiDargwa
+8	atːaba	grandmother	a tː a + b a	father grand	5 2	5 2	SanzhiDargwa
+9	atːacːi	uncle	a tː a + cː i	father uncle	5 3	5 3	SanzhiDargwa
+10	atːazi	aunt	a tː a + z i	father aunt	5 4	5 4	SanzhiDargwa
+11	bahinte	parents / owners	b a h i n t e	parents	6	6	SanzhiDargwa
+12	baža	brother-in-law	b a ž a	brotherinlaw	7	7	SanzhiDargwa
+13	bažanaq	brother-in-law; husband of sister-in-law	b a ž a + n a q	brotherinlaw inlaw	7 8	7 8	SanzhiDargwa
+14	cʼikuri	bride	cʼ i k u r i	bride	9	9	SanzhiDargwa
+15	durħuˁ	child / son / boy / cub	d u r ħ uˁ	child	10	10	SanzhiDargwa
+16	durħuˁla durħu	grandchild; grandson	d u r ħ uˁ + l a +  d u r ħ u	child _la child-b	10 11 12	10 11 10	SanzhiDargwa
+17	durħuˁla xːunul	daughter-in-law	d u r ħ uˁ + l a +  xː u n u l	child _la wife	10 11 13	10 11 13	SanzhiDargwa
+18	halmaʁ	groom; fiancé; bridegroom	h a l m a ʁ	groom	14	14	SanzhiDargwa
+19	kːama	widower; widow	kː a m a	widow	15	15	SanzhiDargwa
+20	kulpat	family	k u l p a t	family	16	16	SanzhiDargwa
+21	kʼuniqʼar	second cousin	kʼ u n i + qʼ a r	second cousin	17 18	17 18	SanzhiDargwa
+22	nuca	son-in-law	n u c a	soninlaw	19	19	SanzhiDargwa
+23	qːunaq	kunak	qː u + n a q	soninlaw-2 inlaw	20 8	20 8	SanzhiDargwa
+24	qini	nephew	q i n i	nephew	21	21	SanzhiDargwa
+25	qʼam	clan; kin	qʼ a m	kin	23	23	SanzhiDargwa
+26	qʼuneqʼar	second cousin	qʼ u n e + qʼ a r	second-2 cousin	22 18	22 18	SanzhiDargwa
+27	rucːi	sister	r u cː i	sister	24	24	SanzhiDargwa
+28	rucːilla rursːi	niece	r u cː i + l l a +  r u r sː i	sister _la-2 daughter	24 25 26	24 11 26	SanzhiDargwa
+29	rucːiqʼar	first cousin	r u cː i + qʼ a r	sister cousin	24 18	24 18	SanzhiDargwa
+30	rursːi	girl / daughter	r u r sː i	daughter	26	26	SanzhiDargwa
+31	rursːila durħuˁ	grandson	r u r sː i + l a +  d u r ħ uˁ	daughter _la child	26 11 10	26 11 10	SanzhiDargwa
+32	rursila sub	son-in-law	r u r s i + l a +  s u b	daughter-2 _la husband	27 11 28	26 11 28	SanzhiDargwa
+33	sub	husband	s u b	husband	28	28	SanzhiDargwa
+34	sub-xːunul	spouses; married couple	s u b + xː u n u l	husband wife	28 13	28 13	SanzhiDargwa
+35	subla rucːi	sister-in-law	s u b + l a +  r u cː i	husband _la sister	28 11 24	28 11 24	SanzhiDargwa
+36	subla rursːi	stepdaughter	s u b + l a +  r u r sː i	husband _la daughter	28 11 26	28 11 26	SanzhiDargwa
+37	tajp	clan	t a j p	clan	29	29	SanzhiDargwa
+38	tuχum	relative	t u χ u m	relative	30	30	SanzhiDargwa
+39	ucːi	brother	u cː i	brother	31	31	SanzhiDargwa
+40	ucːi-rucːi	brother-sister	u cː i + r u cː i	brother sister	31 24	31 24	SanzhiDargwa
+41	ucːiqʼar	first cousin	u cː i + qʼ a r	brother cousin	31 18	31 18	SanzhiDargwa
+42	ugaj aba	stepmother	u g a j +  a b a	non-native mother	32 1	32 1	SanzhiDargwa
+43	ugaj atːa	stepfather	u g a j +  a tː a	non-native father	32 5	32 5	SanzhiDargwa
+44	ugaj durħuˁ	stepson	u g a j +  d u r ħ uˁ	non-native child	32 10	32 10	SanzhiDargwa
+45	wah	owner / male parent	w a h	owner	33	33	SanzhiDargwa
+46	xːunul	wife / woman	xː u n u l	wife	13	13	SanzhiDargwa
+47	xːunulla atːa	father-in-law	xː u n u l + l a +  a tː a	wife _la father	13 11 5	13 11 5	SanzhiDargwa
+48	xːunulla rucːi	sister-in-law	xː u n u l + l a +  r u cː i	wife _la sister	13 11 24	13 11 24	SanzhiDargwa
+49	žan-aba	mommy	ž a n + a b a	body mother	34 1	34 1	SanzhiDargwa
+50	žins	clan; family	ž i n s	family-2	35	35	SanzhiDargwa
+51	zunra	neighbor	z u n r a	neighbor	36	36	SanzhiDargwa
+52	ʡaˁχːuˁl	guest; visitor; kunak	ʡ aˁ χː uˁ l	guest	37	37	SanzhiDargwa
+53	ʡaˁχːuˁl aba	stepmother	ʡ aˁ χː uˁ l +  a b a	guest mother	37 1	37 1	SanzhiDargwa
+54	ʡaˁχːuˁl atːa	stepfather	ʡ aˁ χː uˁ l +  a tː a	guest father	37 5	37 5	SanzhiDargwa
+55	ʡaˁχːuˁl durħuˁ	stepson	ʡ aˁ χː uˁ l +  d u r ħ uˁ	guest child	37 10	37 10	SanzhiDargwa
+56	ʡaˁχːuˁl rursːi	stepdaughter	ʡ aˁ χː uˁ l +  r u r sː i	guest daughter	37 26	37 26	SanzhiDargwa
+57	χːabaj	grandmother	χː + a b a + j	grand-2 mother _j	38 1 39	38 1 39	SanzhiDargwa
+58	χːatːaj	grandfather	χː + a tː a + j	grand-2 father _j	38 5 39	38 5 39	SanzhiDargwa
+59	χːula aba	mother-in-law	χː u l a +  a b a	big mother	40 1	40 1	SanzhiDargwa
+60	χːula atːa	father-in-law	χː u l a +  a tː a	big father	40 5	40 5	SanzhiDargwa

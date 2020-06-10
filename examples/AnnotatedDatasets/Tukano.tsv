@@ -1,0 +1,126 @@
+ID	DOCULECT	CONCEPT	VALUE	FORM	WORKFLOWTOKENS	WORKFLOWCOGIDS	WORKFLOWCROSSIDS	TOKENS	COGIDS	CROSSIDS	ROOTIDS	MORPHEMES
+654	Awa	skin	aja	aja	a j a	81	73	a j a	81	73	73	skin
+563	Awa	spear	aks ti̵ kwiʧati̵t	aks ti̵ kwiʧati̵t	a k s + t ɨ + k w i tʃ a t ɨ t	128 129 130	128 2 130	a k s + t ɨ + k w i tʃ a t ɨ t	128 129 130	128 2 130	128 2 130	spear tree spear-2
+468	Awa	heart	kaixsu	kaixsu	k a i x s u	5	5	k a i x + s u	6 5	6 5	6 5	heart heart-2
+469	Awa	heart	kaixʧu	kaixʧu	k a i x tʃ u	6	6	k a i x + tʃ u	6 92	6 92	6 92	heart heart-3
+558	Awa	left	kwijamal	kwijamal	k w i j a + m a l	64 65	64 40	k w i j a + m a l	64 65	64 40	64 40	left direction
+678	Awa	root	muxti̵t	muxti̵t	m u x t ɨ t	33	33	m u x t ɨ t	33	33	33	root
+471	Awa	correct	nil	nil	n i l	13	13	n i l	13	13	13	straight
+679	Awa	straight	nil	nil	n i l	27	13	n i l	27	13	13	straight
+495	Awa	right	numal	numal	n u + m a l	39 40	39 40	n u + m a l	39 40	39 40	39 40	right direction
+526	Awa	fruit	pippa	pippa	p i p p a	139	3	p i p p a	139	3	3	tree-5
+699	Awa	seed	pippa	pippa	p i p p a	150	3	p i p p a	150	3	3	tree-5
+695	Awa	sap	puzpi	puzpi	p u z p i	144	144	p u z p i	144	144	144	sap
+497	Awa	tooth	sula	sula	s u l a	54	54	s u l a	54	54	54	tooth
+473	Awa	bark	tamaxatu	tamaxatu	t a m a x a t u	71	71	t a m a x a t u	71	71	71	bark
+759	Awa	tree	ti̵	ti̵	t ɨ	2	2	t ɨ	2	2	2	tree
+637	Awa	stick	ti̵	ti̵	t ɨ	120	2	t ɨ	120	2	2	tree
+474	Awa	bark	ti̵ aja	ti̵ aja	t ɨ + a j a	72 73	72 73	t ɨ + a j a	72 73	2 73	2 73	tree skin
+641	Awa	chest	ʧikuza	ʧikuza	tʃ i k u z a	20	20	tʃ i k u z a	20	20	20	chest
+572	Awa	firewood	ʧi̵	ʧi̵	tʃ ɨ	122	122	tʃ ɨ	122	122	122	firewood
+737	Awa	fingernail	ʧkwil	ʧkwil	tʃ k w i l	86	86	tʃ k w i l	86	86	86	nail
+736	Awa	fingernail/claw	ʧkwil	ʧkwil	tʃ k w i l	93	86	tʃ k w i l	93	86	86	nail
+582	Awa	hand	ʧti̵	ʧti̵	tʃ t ɨ	100	100	tʃ t ɨ	100	100	100	hand
+601	Awa	wrist	ʧti̵ impul	ʧti̵ impul	tʃ t ɨ + i m p u l	105 106	100 106	tʃ t ɨ + i m p u l	105 106	100 106	100 106	hand wrist
+3057	Carapana	skin	aséro	aséro	a s e r o	82	82	a s e r o	82	75	75	skin-2
+2964	Carapana	spear	besuí̵	besuí̵	b e s u ɨ	131	131	b e s u ɨ	131	131	131	spear-3
+3082	Carapana	root	dĩ̵kṍ	dĩ̵kṍ	d ɨ̃ k õ	34	34	d ɨ̃ k õ	34	34	34	root-2
+2869	Carapana	heart	jérí	jérí	j e r i	7	1	j e r i	7	7	7	heart-4
+3158	Carapana	tree	júkí̵	júkí̵	j u k ɨ	1	1	j u k ɨ	1	1	1	tree-2
+3039	Carapana	stick	júkí̵	júkí̵	j u k ɨ	118	1	j u k ɨ	118	1	1	tree-2
+2874	Carapana	bark	júkí̵ aséro	júkí̵ aséro	j u k ɨ + a s e r o	74 75	1 75	j u k ɨ + a s e r o	74 75	1 75	1 75	tree-2 skin-2
+2956	Carapana	island	júkí̵ póa	júkí̵ póa	j u k ɨ + p o a	59 85	1 85	j u k ɨ + p o a	59 85	1 85	1 85	tree-2 island
+2871	Carapana	correct	káríape	káríape	k a + r i a p e	14 18	14 29	k a + r i a p e	14 18	14 18	14 18	straight-2 straight-3
+3083	Carapana	straight	káríape	káríape	k a + r i a p e	28 29	14 29	k a + r i a p e	28 29	14 18	14 18	straight-2 straight-3
+2894	Carapana	right	káríapedĩ̵́gõã	káríapedĩ̵́gõã	k a + r i a p e + d ɨ̃ g õ ã	41 44 42	14 29 42	k a + r i a p e + d ɨ̃ g õ ã	41 44 42	14 18 42	14 18 42	straight-2 straight-3 direction-2
+2957	Carapana	left	kã́ãkṹdĩ̵́gõã	kã́ãkṹdĩ̵́gõã	k ã ã k ũ + d ɨ̃ g õ ã	66 67	66 42	k ã ã k ũ + d ɨ̃ g õ ã	66 67	66 42	66 42	left-2 direction-2
+2925	Carapana	fruit	karika	karika	k a r i k a	138	138	k a r i k a	138	138	138	fruit-2
+3043	Carapana	chest	kótia	kótia	k o t i a	21	21	k o t i a	21	21	21	chest-2
+2896	Carapana	tooth	opía	opía	o p i + a	55 156	48 156	o p i + a	55 156	48 156	48 156	tooth-2 _a-suffix
+2895	Carapana	frontteeth/incisors	opíríápe	opíríápe	o p i + r i a p e	48 49	48 29	o p i + r i a p e	48 49	48 18	48 18	tooth-2 straight-3
+3102	Carapana	seed	otéríke	otéríke	o t e r i k e	149	149	o t e + r i k e	151 157	143 142	143 142	seed seed-5
+2971	Carapana	firewood	pee	pee	p eː	123	123	p eː	123	123	123	firewood-2
+3098	Carapana	sap	rií	rií	r i i	145	145	r i i	145	145	145	sap-2
+2872	Carapana	correct	ríta	ríta	r i t a	15	15	r i t a	15	15	15	correct
+2984	Carapana	hand	wãbṍ	wãbṍ	w ã b õ	101	87	w ã b õ	101	87	87	hand
+3137	Carapana	fingernail	wãbṍ aséro	wãbṍ aséro	w ã b õ + a s e r o	87 88	87 88	w ã b õ + a s e r o	87 88	87 75	87 75	hand skin-2
+3136	Carapana	fingernail/claw	wãbṍ aséro	wãbṍ aséro	w ã b õ + a s e r o	94 95	87 88	w ã b õ + a s e r o	94 95	87 75	87 75	hand skin-2
+3005	Carapana	wrist	wãbṍdóbea	wãbṍdóbea	w ã b õ + d o b e a	107 108	87 108	w ã b õ + d o b e a	107 108	87 108	87 108	hand wrist-2
+3006	Carapana	mask	wásóí̵ aséro	wásóí̵ aséro	w a s o ɨ + a s e r o	114 115	114 88	w a s o ɨ + a s e r o	114 115	114 75	114 75	mask skin-2
+3247	Carijona	correct	ae	ae	a e	16	16	a e	16	16	16	correct
+3503	Carijona	fingernail	amosaire	amosaire	a m o s a i r e	89	89	a m o s a i r e	89	89	89	nail
+3331	Carijona	island	amotarɯ	amotarɯ	a m o t a r ɯ	60	60	a m o t a r ɯ	60	60	60	island-2
+3467	Carijona	seed	eheru	eheru	e h e r u	151	140	e h e + r u	154 159	154 159	154 159	seed-3 _ru-suffix
+3379	Carijona	wrist	emekunu	emekunu	e m e k u n u	109	109	e m e k u n u	109	109	109	wrist-3
+3245	Carijona	heart	eremorori	eremorori	e r e m o r o r i	8	8	e r e + m o r o r i	7 8	7 8	7 8	heart-4 heart-5
+3359	Carijona	hand	eenʲari	eenʲari	eː nʲ a r i	102	102	eː nʲ a r i	102	102	102	hand-2
+3502	Carijona	fingernail/claw	hamosairi	hamosairi	h a m o s a i r i	96	96	h a m + o s a i r i	96 95	96 75	96 75	nail-3 skin-2
+3426	Carijona	skin	hitihɯ	hitihɯ	h i t i h ɯ	83	83	h i t i h ɯ	83	83	83	skin-3
+3332	Carijona	left	howojae	howojae	h o w o j a e	68	68	h o w o j a e	68	68	68	left-3
+3272	Carijona	tooth	iʤeri	iʤeri	i dʒ e r i	56	56	i dʒ e r i	56	56	56	tooth-3
+3271	Carijona	frontteeth/incisors	ijerɯ	ijerɯ	i j e r ɯ	52	52	i j e r ɯ	52	52	52	incisor
+3413	Carijona	chest	irohɯrɯ	irohɯrɯ	i r o h ɯ r ɯ	22	22	i r o h ɯ r ɯ	22	22	22	chest-3
+3270	Carijona	right	jahutanuje	jahutanuje	j a h u t a n u j e	43	43	j a h u t a n u j e	43	43	43	right-2
+3248	Carijona	correct	kure	kure	k u r e	17	17	k u r e	17	17	17	correct-3
+3449	Carijona	straight	tsahɯme	tsahɯme	ts a h ɯ m e	30	30	ts a h ɯ m e	30	30	30	straight-4
+3524	Carijona	tree	βeβe	βeβe	β e β e	3	3	β e β e	3	3	3	tree-5
+3410	Carijona	stick	βeβe	βeβe	β e β e	119	3	β e β e	119	3	3	tree-5
+3347	Carijona	firewood	βeβe	βeβe	β e β e	124	3	β e β e	124	3	3	tree-5
+3468	Carijona	seed	βeβe atiru	βeβe atiru	β e β e + a t i r u	150 151	3 140	β e β e + a t i r u	150 151	3 143	3 143	tree-5 seed
+3300	Carijona	fruit	βeβe charu	βeβe charu	β e β e + c h a r u	139 158	3 158	β e β e + c h a r u	139 158	3 158	3 158	tree-5 fruit-7
+3250	Carijona	bark	βeβedihɯ	βeβedihɯ	β e β e + d i h ɯ	76 77	3 77	β e β e + d i h ɯ	76 77	3 77	3 77	tree-5 bark-2
+3463	Carijona	sap	βeβe ehekuru	βeβe ehekuru	β e β e + e h e k u r u	146 148	3 148	β e β e + e h e + k u r u	146 148 160	3 148 160	3 148 160	tree-5 sap-4 sap-5
+3301	Carijona	fruit	βeβe eheru	βeβe eheru	β e β e + e h e r u	139 140	3 140	β e β e + e h e + r u	139 140 161	3 154 159	3 154 159	tree-5 seed-3 _ru-suffix
+3340	Carijona	spear	βeβehotɯri	βeβehotɯri	β e β e + h o t ɯ r i	132 133	3 133	β e β e + h o t ɯ r i	132 133	3 133	3 133	tree-5 spear-4
+3448	Carijona	root	βeβe ɯmitɯ	βeβe ɯmitɯ	β e β e + ɯ m i t ɯ	35 36	3 36	β e β e + ɯ m i t ɯ	35 36	3 36	3 36	tree-5 root-4
+13445	Macuna	hand	ãbõ	ãbõ	ã b õ	101	87	ã b õ	101	87	87	hand
+13468	Macuna	wrist	ãbõhea	ãbõhea	ã b õ + h e a	107 113	87 113	ã b õ + h e a	107 113	87 113	87 113	hand wrist-6
+13607	Macuna	fingernail/claw	ãbõwe	ãbõwe	ã b õ + w e	94 97	87 78	ã b õ + w e	94 97	87 78	87 78	hand bark-4
+13608	Macuna	fingernail	ãbõ wero	ãbõ wero	ã b õ + w e + r o	87 90 152	87 78 152	ã b õ + w e + r o	87 90 152	87 78 152	87 78 152	hand bark-4 _ro-suffix
+13571	Macuna	seed	ahe	ahe	a h e	154	154	a h e	154	154	154	seed-3
+13417	Macuna	left	gãkõdi̵ha	gãkõdi̵ha	g ã k õ d ɨ h a	69	69	g ã k õ + d ɨ h a	66 67	66 42	66 42	left-2 direction-2
+13469	Macuna	mask	gi̵hesioro	gi̵hesioro	g ɨ h e s i o r o	116	116	g ɨ + h e s i o r o	61 115	61 75	61 75	mask-3 skin-2
+13353	Macuna	tooth	guhiga	guhiga	g u h i + g a	57 58	53 58	g u h i + g a	57 58	53 58	53 58	tooth-4 tooth-5
+13352	Macuna	frontteeth/incisors	guhi rioho gaje	guhi rioho gaje	g u h i + r i o h o + g a j e	53 50 51	53 50 51	g u h i + r i o h o + g a j e	53 50 51	53 18 51	53 18 51	tooth-4 straight-3 tooth-6
+13432	Macuna	firewood	hea juki̵	hea juki̵	h e a + j u k ɨ	125 126	113 126	h e a + j u k ɨ	125 126	125 1	125 1	firewood-4 tree-2
+13328	Macuna	heart	i̵gi̵ãbĩ̵	i̵gi̵ãbĩ̵	ɨ g ɨ ã b ɨ̃	9	9	ɨ g ɨ ã b ɨ̃	9	9	9	heart-6
+13329	Macuna	heart	i̵si	i̵si	ɨ s i	10	10	ɨ s i	10	10	10	heart-7
+13509	Macuna	chest	i̵si rioho	i̵si rioho	ɨ s i + r i o h o	23 24	10 24	ɨ s i + r i o h o	23 24	10 18	10 18	heart-7 straight-3
+13551	Macuna	root	jẽbã	jẽbã	j ẽ b ã	37	37	j ẽ b ã	37	37	37	root-3
+13629	Macuna	tree	juki̵	juki̵	j u k ɨ	1	1	j u k ɨ	1	1	1	tree-2
+13505	Macuna	stick	juki̵	juki̵	j u k ɨ	118	1	j u k ɨ	118	1	1	tree-2
+13333	Macuna	bark	juki̵ wero	juki̵ wero	j u k ɨ + w e + r o	74 78 153	1 78 152	j u k ɨ + w e + r o	74 78 153	1 78 152	1 78 152	tree-2 bark-4 _ro-suffix
+13425	Macuna	spear	reare bisu	reare bisu	r e a r e + b i s u	134 131	134 131	r e a r e + b i s u	134 131	134 131	134 131	spear-5 spear-3
+13567	Macuna	sap	rí	rí	r i	145	145	r i	145	145	145	sap-2
+13384	Macuna	fruit	rika	rika	r i k a	142	142	r i k a	142	142	142	fruit-3
+13331	Macuna	correct	rioho	rioho	r i o h o	18	18	r i o h o	18	18	18	straight-3
+13552	Macuna	straight	rioho	rioho	r i o h o	31	18	r i o h o	29	18	18	straight-3
+13351	Macuna	right	riohokadi̵ha	riohokadi̵ha	r i o h o + k a d ɨ h a	44 45	18 45	r i o h o + k a + d ɨ h a	44 45 42	18 45 42	18 45 42	straight-3 right-6 direction-2
+13416	Macuna	island	ruhajoga	ruhajoga	r u h a j o g a	61	61	r u h a + j o g a	63 400	63 59	63 59	island-4 island-5
+13522	Macuna	skin	wiro	wiro	w i r o	84	84	w i r o	84	84	84	skin-4
+19883	Tanimuca	skin	ahea	ahea	a h e a	82	82	a h e a	82	75	75	skin-2
+19966	Tanimuca	fingernail	bãbãrahea	bãbãrahea	b ã b ã r + a h e a	91 88	91 88	b ã b ã r + a h e a	87 88	87 75	87 75	hand skin-2
+19965	Tanimuca	fingernail/claw	bãbãrahea	bãbãrahea	b ã b ã r + a h e a	98 95	91 88	b ã b ã r + a h e a	94 95	87 75	87 75	hand skin-2
+19828	Tanimuca	mask	bãjẽpebã	bãjẽpebã	b ã j ẽ p e b ã	117	117	b ã j ẽ p e b ã	117	117	117	mask-2
+19784	Tanimuca	spear	behoa	behoa	b e h o a	131	131	b e h o a	131	131	131	spear-3
+19688	Tanimuca	correct	hia	hia	h i a	19	19	h i a	19	19	19	correct-4
+19776	Tanimuca	island	hubũrika	hubũrika	h u b ũ + r i k a	62 63	62 63	h u b ũ + r i k a	62 63	62 63	62 63	island-3 island-4
+19931	Tanimuca	seed	japea	japea	j a p e a	155	155	j a p e a	155	155	155	seed-4
+19987	Tanimuca	tree	japua	japua	j a p u a	4	4	j a p u a	4	4	4	tree-3
+19865	Tanimuca	stick	japua	japua	j a p u a	121	4	j a p u a	121	4	4	tree-3
+19691	Tanimuca	bark	japuahea	japuahea	j a p u a + h e a	79 80	4 80	j a p u a + h e a	79 80	4 80	4 80	tree-3 bark-3
+19826	Tanimuca	wrist	jarikaka	jarikaka	j a r i k a k a	110	110	j a r i k a k a	110	110	110	wrist-4
+19777	Tanimuca	left	kãkopeʔrõ	kãkopeʔrõ	k ã k o + p e ʔ r õ	66 70	66 70	k ã k o + p e ʔ r õ	66 70	66 70	66 70	left-2 right-5
+19869	Tanimuca	chest	karĩbãkia	karĩbãkia	k a r ĩ + b ã k i a	25 26	25 12	k a r ĩ + b ã k i a	25 26	25 11	25 11	chest-4 heart-9
+19686	Tanimuca	heart	ojĩbãkia	ojĩbãkia	o j ĩ + b ã k i a	11 12	11 12	o j ĩ + b ã k i a	10 12	10 11	10 11	heart-7 heart-9
+19710	Tanimuca	tooth	opia	opia	o p i + a	55 156	48 156	o p i + a	55 156	48 156	48 156	tooth-2 _a-suffix
+19709	Tanimuca	frontteeth/incisors	opirupua	opirupua	o p i + r u p u a	48 49	48 29	o p i + r u p u a	48 49	48 18	48 18	tooth-2 straight-3
+19742	Tanimuca	fruit	õterikia	õterikia	õ t e + r i k i a	143 142	143 142	õ t e + r i k i a	143 142	143 142	143 142	fruit-6 fruit-3
+19791	Tanimuca	firewood	peka	peka	p e k a	127	127	p e k a	127	127	127	firewood-3
+19827	Tanimuca	wrist	pita arikaka	pita arikaka	p i t a + a r i k a k a	111 112	103 112	p i t a + a r i k a k a	111 112	103 112	103 112	hand-3 wrist-5
+19803	Tanimuca	hand	pitaka	pitaka	p i t a + k a	103 104	103 104	p i t a + k a	103 104	103 104	103 104	hand-3 hand-4
+19910	Tanimuca	root	rĩkoa	rĩkoa	r ĩ k o a	38	38	r ĩ k o a	34	34	34	root-2
+19689	Tanimuca	correct	rita	rita	r i t a	15	15	r i t a	15	15	15	correct
+19708	Tanimuca	right	ɾitapeʔɾõ	ɾitapeʔɾõ	ɾ i t a + p e ʔ ɾ õ	46 47	46 47	ɾ i t a + p e ʔ ɾ õ	46 47	46 47	46 47	right-3 right-4
+19927	Tanimuca	sap	tẽkua	tẽkua	t ẽ k u a	147	147	t ẽ k u a	147	147	147	sap-3
+19911	Tanimuca	straight	wãhĩã	wãhĩã	w ã h ĩ ã	32	32	w ã h ĩ ã	32	32	32	straight-5

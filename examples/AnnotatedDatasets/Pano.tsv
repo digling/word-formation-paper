@@ -1,0 +1,246 @@
+ID	IDS-ID	CONCEPT	DOCULECT	VALUE	FORM	WORKFLOW-TOKENS	WORKFLOW-COGIDS	WORKFLOW-CROSSIDS	TOKENS	COGIDS	CROSSIDS	ROOTIDS	MORPHEMES	
+4	1-840-272-1	ashes	Araona	timo	timo	t i m o	21	21	t i m o	21	21	21	ashes	
+19	16-720-272-1	bad	Araona	-isi	isi	i s i	180	180	i s i	180	180	180	bad	
+21	16-720-272-5	bad	Araona	masawe	masawe	m a s a w e	182	182	m a s a + w e	177 196	177 196	177 196	bad-2 _we-suffix	
+20	16-720-272-3	bad	Araona	šili	šili	ʃ i l i	181	181	ʃ i l i	181	181	181	bad-3	
+11	14-410-272-1	day	Araona	c̷eiɲe	c̷eiɲe	ts e i ɲ e	123	123	ts e i ɲ e	123	123	123	day	
+26	1-213-272-1	dust	Araona	poc̷ac̷a-i	poc̷ac̷a-i	p o ts a ts a + i	229 236	229 236	p o + ts a + ts a + i	229 327 0 236	229 72 0 236	229 72 0 236	dust-10 small _small _i-suffix	
+25	1-212-272-1	earth=ground, soil	Araona	mezizo	mezizo	m e z i z o	222	222	m e + z i + z o	221 5 44	221 5 44	221 5 44	earth earth-2 earth-3	
+22	13-140-272-1	every, all	Araona	babaowe	babaowe	b a b a o w e	197	197	b a b a o + w e	197 304	197 196	197 196	every _we-suffix	
+15	12-440-272-3	far (adv)	Araona	aokʷe	aokʷe	a o kʷ e	145	145	a + o kʷ e	303 145	301 145	301 145	_a-prefix far	
+14	12-440-272-1	far (adv)	Araona	okʷeda	okʷeda	o kʷ e d a	144	144	o kʷ e + d a	145 149	145 59	145 59	far _da-suffix	
+1	1-810-272-1	fire	Araona	kʷa-ti	kʷa-ti	kʷ a + t i	307 1	2 1	kʷ a + t i	307 1	2 1	2 1	fire fire-2	
+2	1-820-272-1	flame (noun)	Araona	aweo	aweo	a w e o	6	6	a w e o	6	6	6	flame	
+16	16-710-272-1	good	Araona	ahai	ahai	a h ai	175	175	a + h ai	301 168	301 168	301 168	_a-prefix good	
+17	16-710-272-3	good	Araona	da	da	d a	166	155	d a	166	166	166	good-2	
+18	16-710-272-5	good	Araona	hai-ǰa	hai-ǰa	h ai + j a	168 173	168 173	h ai + j a	168 173	168 31	168 31	good _ja-suffix	
+7	12-550-272-1	large, big	Araona	haliǰa	haliǰa	h a l i j a	44	44	h a l i + j a	42 31	42 31	42 31	large _ja-suffix	
+12	12-430-272-1	near (adv)	Araona	hakʷepati	hakʷepati	h a kʷ e p a t i	126	126	h a kʷ e p a t i	126	126	126	near	
+13	12-430-272-3	near (adv)	Araona	c̷awa	c̷awa	ts a w a	127	127	ts a + w a	127 321	72 321	72 321	small _wa	
+23	13-10-272-1	one	Araona	peada	peada	p e a d a	212	212	p e a + d a	212 213	212 59	212 59	one _da-suffix	
+24	13-10-272-3	one	Araona	peada-we	peada-we	p e a d a + w e	212 213	212 213	p e a + d a + w e	212 213 211	212 59 196	212 59 196	one _da-suffix _we-suffix	
+5	1-510-272-1	sky	Araona	baepa	baepa	b a e p a	31	31	b a e + p a	35 33	35 33	35 33	sky _pa-suffix	
+8	12-560-272-1	small, little	Araona	lopo	lopo	l o p o	66	66	l o p o	66	66	66	small-3	
+3	1-830-272-1	smoke (noun)	Araona	hodo	hodo	h o d o	15	15	h o d o	15	15	15	smoke	
+6	1-520-272-1	sun	Araona	zeti	zeti	z e t i	39	39	z e t i	39	39	39	sun	
+9	12-630-272-1	thick (in dimension)	Araona	apamotihi	apamotihi	a p a m o t i h i	82	82	a + p a m o + t i h i	315 92 144	301 92 144	301 92 144	_a-prefix thick thick-2	
+10	12-650-272-1	thin (in dimension)	Araona	lasa-lasa	lasa-lasa	l a s a + l a s a	95 0	95 0	l a s a + l a s a	95 0	95 0	95 0	thin _thin	
+33	1-840-277-1	ashes	Cashibo	či-mapo	či-mapo	tʃ i + m a p o	22 23	1 23	tʃ i + m a p o	22 23	1 23	1 23	fire-5 ashes-2	
+44	16-720-277-1	bad	Cashibo	ʔaisama	ʔaisama	ʔ ai s a m a	183	183	ʔ ai s a + m a	183 158	183 25	183 25	good-4 _not	
+41	14-410-277-1	day	Cashibo	nɨtɨ	nɨtɨ	n ɨ t ɨ	118	118	n ɨ t ɨ	118	118	118	day-2	
+28	1-213-277-1	dust	Cashibo	mee poto	mee poto	m eː + p o t o	226 224	221 224	m eː + p o t o	226 224	221 224	221 224	earth earth-4	
+27	1-212-277-1	earth=ground, soil	Cashibo	mee	mee	m eː	221	221	m eː	221	221	221	earth	
+46	13-140-277-1	every, all	Cashibo	kamaβi	kamaβi	k a m a β i	198	198	k a m a β i	198	198	198	every-2	
+42	12-440-277-1	far (adv)	Cashibo	ʔura	ʔura	ʔ u r a	146	146	ʔ u r a	146	146	146	far-2	
+29	1-810-277-1	fire	Cashibo	c̷ii	c̷ii	ts iː	1	1	ts iː	1	1	1	fire-2	
+30	1-820-277-1	flame (noun)	Cashibo	c̷ii rɨ'ɨkirukɨ	c̷ii rɨ'ɨkirukɨ	ts iː + r ɨ ɨ k i r u k ɨ	7 8	1 8	ts iː + r ɨ ɨ k i r u k ɨ	7 8	1 8	1 8	fire-2 flame-2	
+43	16-710-277-1	good	Cashibo	o'pi	o'pi	o p i	165	165	o p i	165	165	165	day-7	
+36	12-550-277-1	large, big	Cashibo	čaa	čaa	tʃ aː	54	54	tʃ aː	54	54	54	large-3	
+37	12-550-277-3	large, big	Cashibo	ʔɨo	ʔɨo	ʔ ɨ o	55	55	ʔ ɨ o	55	55	55	large-4	
+45	13-10-277-1	one	Cashibo	a'čuuši	a'čuuši	a tʃ uː ʃ i	214	214	a tʃ uː ʃ i	214	214	214	one-2	
+34	1-510-277-1	sky	Cashibo	na'i	na'i	n a i	29	29	n a i	29	29	29	sky-2	
+38	12-560-277-1	small, little	Cashibo	ču'kuma	ču'kuma	tʃ u k u m a	67	67	tʃ u k u + m a	67 62	67 25	67 25	large-16 _not	
+32	1-830-277-3	smoke (noun)	Cashibo	ko'ĩ	ko'ĩ	k o iː	17	17	k o iː	17	17	17	smoke-2	
+31	1-830-277-1	smoke (noun)	Cashibo	c̷ii 'kʷĩ	c̷ii 'kʷĩ	ts iː + kʷ iː	16 310	1 4	ts iː + kʷ iː	16 312	1 4	1 4	fire-2 fire-4	
+35	1-520-277-1	sun	Cashibo	βari	βari	β a r i	36	36	β a r i	36	36	36	sun-2	
+39	12-630-277-1	thick (in dimension)	Cashibo	kɨṣ̌'to	kɨṣ̌'to	k ɨ ʂ t o	83	83	k ɨ ʂ t o	83	83	83	thick-3	
+40	12-650-277-1	thin (in dimension)	Cashibo	βɨ̃'c̷ĩ	βɨ̃'c̷ĩ	β ɨ̃ ts iː	114	114	β ɨ̃ ts iː	114	114	114	thin-2	
+50	1-840-278-1	ashes	Catuquina	ṣ̌iʔi mapo	ṣ̌iʔi mapo	ʂ i ʔ i + m a p o	22 23	1 23	ʂ i ʔ i + m a p o	22 23	1 23	1 23	fire-2 ashes-2	
+61	16-720-278-1	bad	Catuquina	ičṣ̌a-pa	ičṣ̌a-pa	i tʃ ʂ a + p a	193 184	193 58	i tʃ ʂ a + p a	193 184	193 33	193 33	bad-5 _pa-suffix	
+57	14-410-278-1	day	Catuquina	βari	βari	β a r i	116	36	β a r i	116	36	36	sun-2	
+65	1-213-278-1	dust	Catuquina	mai poto	mai poto	m ai + p o t o	226 224	221 224	m ai + p o t o	226 224	221 224	221 224	earth earth-4	
+64	1-212-278-1	earth=ground, soil	Catuquina	mai	mai	m ai	221	221	m ai	221	221	221	earth	
+62	13-140-278-1	every, all	Catuquina	kɨyo-s-ka	kɨyo-s-ka	k ɨ j o + s + k a	199 210 201	199 210 17	k ɨ j o + s + k a	199 210 201	199 210 201	199 210 201	every-4 every-5 every-3	
+59	12-440-278-1	far (adv)	Catuquina	tokɨ-	tokɨ	t o k ɨ	147	147	t o k ɨ	147	147	147	far-4	
+47	1-810-278-1	fire	Catuquina	ṣ̌iʔi	ṣ̌iʔi	ʂ i ʔ i	1	1	ʂ i ʔ i	1	1	1	fire-2	
+48	1-820-278-1	flame (noun)	Catuquina	ṣ̌iʔi	ṣ̌iʔi	ʂ i ʔ i	7	1	ʂ i ʔ i	7	1	1	fire-2	
+60	16-710-278-1	good	Catuquina	roʔa-pa	roʔa-pa	r o ʔ a + p a	164 174	164 58	r o ʔ a + p a	164 174	164 33	164 33	good-4 _pa-suffix	
+53	12-550-278-1	large, big	Catuquina	ani-pa	ani-pa	a n i + p a	43 58	43 58	a n i + p a	43 58	43 33	43 33	large-5 _pa-suffix	
+58	12-430-278-1	near (adv)	Catuquina	ora-ma	ora-ma	o r a + m a	128 125	128 62	o r a + m a	128 125	128 25	128 25	far-3 _not	
+63	13-10-278-1	one	Catuquina	wɨsti-s	wɨsti-s	w ɨ s t i + s	215 220	215 220	w ɨ s t i + s	215 220	215 220	215 220	one-3 _s-suffix	
+51	1-510-278-1	sky	Catuquina	nai	nai	n ai	29	29	n ai	29	29	29	sky-2	
+54	12-560-278-1	small, little	Catuquina	ṣ̌ã-pičṣ̌a	ṣ̌ã-pičṣ̌a	ʂ ã + p i tʃ ʂ a	68 73	68 73	ʂ ã + p i tʃ ʂ a	68 71	68 71	68 71	small-2 small-6	
+49	1-830-278-1	smoke (noun)	Catuquina	koʔĩ	koʔĩ	k o ʔ iː	17	17	k o ʔ iː	17	17	17	smoke-2	
+52	1-520-278-1	sun	Catuquina	βari	βari	β a r i	36	36	β a r i	36	36	36	sun-2	
+55	12-630-278-1	thick (in dimension)	Catuquina	kɨβi-	kɨβi	k ɨ β i	94	94	k ɨ β i	94	94	113	thick-5	
+56	12-650-278-1	thin (in dimension)	Catuquina	kɨmi-ma	kɨmi-ma	k ɨ m i + m a	113 99	113 62	k ɨ m i + m a	113 99	113 25	113 25	thick-4 _not	Nasalization due to context of -ma suffix is possible in these languages, so B -> M. [JML]
+71	1-840-273-1	ashes	Cavineña	moro	moro	m o r o	24	24	m o r o	24	24	24	dust-2	
+84	16-720-273-1	bad	Cavineña	hida-ma	hida-ma	h i d a + m a	194 185	194 62	h i + d a + m a	194 320 185	168 166 25	168 166 25	good good-2 _not	
+79	14-410-273-1	day	Cavineña	wekaka	wekaka	w e k a k a	122	122	w e k a k a	122	122	122	day-3	
+67	1-213-273-1	dust	Cavineña	moro	moro	m o r o	230	24	m o r o	230	24	24	dust-2	
+66	1-212-273-1	earth=ground, soil	Cavineña	mehihi	mehihi	m e h i h i	222	222	m e + h i + h i	221 5 0	221 5 0	221 5 0	earth earth-2 _earth-2	
+85	13-140-273-1	every, all	Cavineña	dotʸa	dotʸa	d o tʲ a	200	200	d o tʲ a	200	200	200	every-6	
+86	13-140-273-3	every, all	Cavineña	yota	yota	j o t a	202	202	j o t a	202	202	202	every-7	
+81	12-440-273-1	far (adv)	Cavineña	hapa-da	hapa-da	h a p a + d a	148 149	129 130	h a p a + d a	148 149	129 59	129 59	far-5 _da-suffix	
+68	1-810-273-1	fire	Cavineña	e-ti-ki	e-ti-ki	e + t i + k i	3 1 4	3 1 4	e + t i + k i	3 1 4	3 1 4	3 1 4	fire-3 fire-2 fire-4	
+69	1-820-273-1	flame (noun)	Cavineña	hoho-ra	hoho-ra	h o h o + r a	9 10	9 10	h o h o + r a	9 10	9 10	9 10	flame-3 flame-4	
+82	16-710-273-1	good	Cavineña	hida	hida	h i d a	158	194	h i + d a	168 166	168 166	168 166	good good-2	
+83	16-710-273-3	good	Cavineña	hida-kʷita	hida-kʷita	h i d a + kʷ i t a	158 161	194 161	h i + d a + kʷ i t a	168 166 161	168 166 161	168 166 161	good good-2 good-5	
+74	12-550-273-1	large, big	Cavineña	ari-da	ari-da	a r i + d a	42 59	42 59	a r i + d a	42 59	42 59	42 59	large _da-suffix	
+75	12-550-273-3	large, big	Cavineña	ari-na	ari-na	a r i + n a	42 60	42 60	a r i + n a	42 60	42 60	42 60	large _na-suffix	
+80	12-430-273-1	near (adv)	Cavineña	hapa-da-ma	hapa-da-ma	h a p a + d a + m a	129 130 125	129 130 62	h a p a + d a + m a	129 130 125	129 59 25	129 59 25	far-5 _da-suffix _not	
+87	13-10-273-1	one	Cavineña	pea-dʸa	pea-dʸa	p e a + dʲ a	216 217	216 217	p e a + dʲ a	216 217	216 217	216 217	one-4 one-5	
+72	1-510-273-1	sky	Cavineña	bare-pa	bare-pa	b a r e + p a	35 33	35 33	b a r e + p a	35 33	35 33	35 33	sky _pa-suffix	
+76	12-560-273-1	small, little	Cavineña	ačača	ačača	a tʃ a tʃ a	72	72	a + tʃ a + tʃ a	322 72 0	322 72 0	322 72 0	_a-suffix small _small	
+70	1-830-273-1	smoke (noun)	Cavineña	wani	wani	w a n i	18	18	w a n i	18	18	18	smoke-3	
+73	1-520-273-1	sun	Cavineña	iheti	iheti	i h e t i	40	40	i + h e t i	115 39	115 39	115 39	flame-7 sun	
+77	12-630-273-1	thick (in dimension)	Cavineña	ari-da	ari-da	a r i + d a	84 85	42 59	a r i + d a	84 85	42 59	42 59	large _da-suffix	
+78	12-650-273-1	thin (in dimension)	Cavineña	ari-da-ma	ari-da-ma	a r i + d a + m a	101 100 99	42 59 62	a r i + d a + m a	101 100 99	42 59 25	42 59 25	large _da-suffix _not	
+93	1-840-279-1	ashes	Chácobo	čiʔi-mišpo	čiʔi-mišpo	tʃ i ʔ i + m i ʃ p o	22 26	1 26	tʃ i ʔ i + m i ʃ + p o	22 26 314	1 70 236	1 70 236	fire-2 small-5 dust-10	
+107	16-720-279-1	bad	Chácobo	kaṣ̌aṣ̌ɨni	kaṣ̌aṣ̌ɨni	k a ʂ a + ʂ ɨ n i	195 192	195 53	k a ʂ a + ʂ ɨ n i	195 192	195 53	195 53	bad_7 _sini-suffix	
+100	14-410-279-1	day	Chácobo	βɨaʔaina	βɨaʔaina	β ɨ a ʔ ai n a	124	124	β ɨ a ʔ ai n a	124	124	124	day-4	
+89	1-213-279-1	dust	Chácobo	mišpo	mišpo	m i ʃ p o	231	26	m i ʃ + p o	231 236	70 236	70 236	small-5 dust-10	
+88	1-212-279-1	earth=ground, soil	Chácobo	mai	mai	m ai	221	221	m ai	221	221	221	earth	
+108	13-140-279-1	every, all	Chácobo	hatita	hatita	h a t i t a	203	203	h a t i t a	203	203	203	every-8	
+109	13-140-279-3	every, all	Chácobo	tɨkɨta	tɨkɨta	t ɨ k ɨ t a	204	204	t ɨ k ɨ t a	204	204	204	every-9	
+103	12-440-279-3	far (adv)	Chácobo	nɨama	nɨama	n ɨ a m a	151	151	n ɨ a + m a	151 306	151 25	151 25	near-3 _not	
+102	12-440-279-1	far (adv)	Chácobo	βasi	βasi	β a s i	150	131	β a s i	150	131	131	far-6	
+90	1-810-279-1	fire	Chácobo	čiʔi	čiʔi	tʃ i ʔ i	1	1	tʃ i ʔ i	1	1	1	fire-2	
+91	1-820-279-1	flame (noun)	Chácobo	čiʔi hana	čiʔi hana	tʃ i ʔ i + h a n a	7 14	1 14	tʃ i ʔ i + h a n a	7 14	1 14	1 14	fire-2 flame-5	
+104	16-710-279-1	good	Chácobo	hia	hia	h i a	157	157	h i a	157	157	157	good-6	
+106	16-710-279-5	good	Chácobo	hiaṣ̌ɨni	hiaṣ̌ɨni	h i a + ʂ ɨ n i	157 160	157 53	h i a + ʂ ɨ n i	157 160	157 53	157 53	good-6 _sini-suffix	
+105	16-710-279-3	good	Chácobo	hɨnima	hɨnima	h ɨ n i m a	162	162	h ɨ n i + m a	305 25	305 25	305 25	bad_6 _not	
+97	12-550-279-3	large, big	Chácobo	čaʔita-ṣ̌ɨni	čaʔita-ṣ̌ɨni	tʃ a ʔ i t a + ʂ ɨ n i	61 53	61 53	tʃ a + ʔ i t a + ʂ ɨ n i	42 61 53	42 61 53	42 61 53	large large-6 _sini-suffix	
+96	12-550-279-1	large, big	Chácobo	-wa	wa	w a	57	57	w a	57	57	57	large-7	
+101	12-430-279-1	near (adv)	Chácobo	βasi-ma	βasi-ma	β a s i + m a	131 125	131 62	β a s i + m a	131 125	131 25	131 25	far-6 _not	
+110	13-10-279-1	one	Chácobo	wɨsti-ta	wɨsti-ta	w ɨ s t i + t a	215 219	215 219	w ɨ s t i + t a	215 219	215 219	215 219	one-3 _ta-suffix	
+94	1-510-279-1	sky	Chácobo	nai-pa	nai-pa	n ai + p a	29 33	29 33	n ai + p a	29 33	29 33	29 33	sky-2 _pa-suffix	
+98	12-560-279-1	small, little	Chácobo	mišni	mišni	m i ʃ n i	70	70	m i ʃ + n i	70 310	70 310	70 310	small-5 _ni-suffix	
+99	12-560-279-3	small, little	Chácobo	pistia	pistia	p i s t i a	71	71	p i s t i a	71	71	71	small-6	
+92	1-830-279-1	smoke (noun)	Chácobo	koʔini	koʔini	k o ʔ i n i	19	19	k o ʔ i + n i	17 323	17 310	17 310	smoke-2 _ni-suffix	
+95	1-520-279-1	sun	Chácobo	βari	βari	β a r i	36	36	β a r i	36	36	36	sun-2	
+127	12-630-279-1	thick (in dimension)	Chácobo	oti	oti	o t i	87	87	o t i	87	87	87	thick-6	
+128	12-650-279-1	thin (in dimension)	Chácobo	siwiki	siwiki	s i w i k i	98	98	s i w i k i	98	98	98	thin-3	
+114	1-840-274-1	ashes	Ese Ejja	kʷaki-maxo	kʷaki-maxo	kʷ a + k i + m a x o	2 300 23	2 4 23	kʷ a + k i + m a x o	2 300 23	2 4 23	2 4 23	fire fire-4 ashes-2	
+115	1-840-274-3	ashes	Ese Ejja	kʷaki-powi	kʷaki-powi	kʷ a + k i + p o w i	2 300 27	2 4 27	kʷ a + k i + p o w i	2 300 27	2 4 27	2 4 27	fire fire-4 ashes-3	
+136	16-720-274-1	bad	Ese Ejja	kea-mase	kea-mase	k e a + m a s e	176 177	45 177	k e a + m a s e	176 177	45 177	45 177	_kia-prefix bad-2	
+137	16-720-274-3	bad	Ese Ejja	kea-šoʔitai	kea-šoʔitai	k e a + ʃ o ʔ i t ai	176 178	45 178	k e a + ʃ o ʔ i + t ai	176 34 179	45 34 179	45 34 179	_kia-prefix bad-9 bad-10	
+122	14-410-274-1	day	Ese Ejja	epoxa	epoxa	e p o x a	115	115	e + p o x a	117 121	38 121	38 121	day-5 day-6	
+111	1-213-274-1	dust	Ese Ejja	meši-hahi	meši-hahi	m e ʃ i + h a h i	232 228	232 228	m e + ʃ i + h a + h i	226 228 169 170	221 228 169 170	221 228 169 170	earth earth-5 dust-4 dust-5	
+138	13-140-274-1	every, all	Ese Ejja	oxaɲa	oxaɲa	o x a ɲ a	205	205	o x a ɲ a	205	205	205	every-10	
+139	13-140-274-3	every, all	Ese Ejja	wasee	wasee	w a s eː	206	206	w a s eː	206	206	206	every-11	
+132	12-440-274-3	far (adv)	Ese Ejja	-ki	ki	k i	153	45	k i	153	153	153	far-7	
+131	12-440-274-1	far (adv)	Ese Ejja	-weeša	weeša	w eː ʃ a	152	152	w eː ʃ a	152	152	152	far-9	
+112	1-810-274-1	fire	Ese Ejja	kʷa-ki	kʷa-ki	kʷ a + k i	307 4	2 4	kʷ a + k i	307 4	2 4	2 4	fire fire-4	
+133	16-710-274-1	good	Ese Ejja	-ɓame	ɓame	b a m e	159	159	b a m e	159	159	159	good-7	
+134	16-710-274-3	good	Ese Ejja	hayaya	hayaya	h a j a j a	171	171	h a j a + j a	168 173	168 31	168 31	good _ja-suffix	
+135	16-710-274-5	good	Ese Ejja	-kixene	kixene	k i x e n e	172	172	k i x e n e	172	172	172	good-8	
+119	12-550-274-1	large, big	Ese Ejja	-kemo	kemo	k e m o	52	52	k e m o	52	52	52	large-8	
+129	12-430-274-1	near (adv)	Ese Ejja	-čipi	čipi	tʃ i p i	132	132	tʃ i p i	132	132	132	near-4	
+130	12-430-274-3	near (adv)	Ese Ejja	wešaʔama	wešaʔama	w e ʃ a ʔ a m a	133	133	w e ʃ a ʔ a + m a	133 62	133 25	133 25	far-8 _not	
+140	13-10-274-1	one	Ese Ejja	oe	oe	o e	211	211	o e	211	196	196	_we-suffix	
+116	1-510-274-1	sky	Ese Ejja	eya	eya	e j a	32	32	e j a	32	32	32	sky-3	
+120	12-560-274-1	small, little	Ese Ejja	-ɓiso	ɓiso	b i s o	69	69	b i s o	69	69	69	small-4	
+121	12-560-274-3	small, little	Ese Ejja	-sisi	sisi	s i s i	65	65	s i s i	65	65	65	small-7	
+113	1-830-274-1	smoke (noun)	Ese Ejja	wičača	wičača	w i tʃ a tʃ a	20	20	w i tʃ a tʃ a	20	20	20	smoke-4	
+118		sun	Ese Ejja		ešeki	e ʃ e k i	38	38	e + ʃ e k i	38 39	38 39	38 39	day-5 sun	
+117	1-520-274-1	sun	Ese Ejja	išeki ~ ešeki	išeki	i ʃ e k i	40	40	i + ʃ e k i	115 39	115 39	115 39	flame-3 sun	
+123	12-630-274-1	thick (in dimension)	Ese Ejja	-'mo	mo	m o	86	86	m o	86	86	86	thick-7	
+124	12-650-274-1	thin (in dimension)	Ese Ejja	-ɓehe	ɓehe	b e h e	112	112	b e h e	112	112	112	thin-4	
+125	12-650-274-3	thin (in dimension)	Ese Ejja	-ɓiso	ɓiso	b i s o	111	69	b i s o	111	69	69	small-4	
+126	12-650-274-5	thin (in dimension)	Ese Ejja	šiwi	šiwi	ʃ i w i	97	97	ʃ i w i	97	97	97	thin-5	
+145	1-840-275-1	ashes	Ese Ejja (Huarayo)	powi	powi	p o w i	27	27	p o w i	27	27	27	ashes-3	
+156	16-720-275-1	bad	Ese Ejja (Huarayo)	kia-tai	kia-tai	k i a + t ai	176 179	45 179	k i a + t ai	176 179	45 179	45 179	_kia-prefix bad-10	
+154	14-410-275-1	day	Ese Ejja (Huarayo)	e-poxa	e-poxa	e + p o x a	117 121	40 121	e + p o x a	117 121	38 121	38 121	day-5 day-6	
+142	1-213-275-1	dust	Ese Ejja (Huarayo)	kia-poi	kia-poi	k i a + p o i	234 233	234 233	k i a + p o i	234 233	234 233	234 233	dust-6 dust-7	
+141	1-212-275-1	earth=ground, soil	Ese Ejja (Huarayo)	meši	meši	m e ʃ i	223	223	m e + ʃ i	221 5	221 5	221 5	earth earth-2	
+153	12-440-275-1	far (adv)	Ese Ejja (Huarayo)	kia-weša	kia-weša	k i a + w e ʃ a	153 152	45 152	k i a + w e ʃ a	45 152	45 152	45 152	_kia-prefix far-9	
+143	1-810-275-1	fire	Ese Ejja (Huarayo)	kwaki	kwaki	k w a k i	5	5	kʷ a + k i	307 4	2 4	2 4	fire fire-4	
+155	16-710-275-1	good	Ese Ejja (Huarayo)	kia-bame	kia-bame	k i a + b a m e	170 159	45 159	k i a + b a m e	313 159	45 159	45 159	_kia-prefix good-7	
+148	12-550-275-1	large, big	Ese Ejja (Huarayo)	kia-ʔao	kia-ʔao	k i a + ʔ a o	45 55	45 55	k i a + ʔ a o	45 55	45 55	45 55	_kia-prefix large-4	
+152	12-430-275-1	near (adv)	Ese Ejja (Huarayo)	kia-čii-nee	kia-čii-nee	k i a + tʃ iː + n eː	134 135 142	45 135 142	k i a + tʃ iː + n eː	134 135 142	45 135 142	45 135 142	_kia-prefix near-5 near-6	
+157	13-10-275-1	one	Ese Ejja (Huarayo)	owe	owe	o w e	211	211	o w e	211	196	196	_we-suffix	
+146	1-510-275-1	sky	Ese Ejja (Huarayo)	eya	eya	e j a	32	32	e j a	32	32	32	sky-3	
+149	12-560-275-1	small, little	Ese Ejja (Huarayo)	kia-sisi	kia-sisi	k i a + s i s i	74 65	45 65	k i a + s i s i	74 65	45 65	45 65	_kia-prefix small-7	
+144	1-830-275-1	smoke (noun)	Ese Ejja (Huarayo)	wičača	wičača	w i tʃ a tʃ a	20	20	w i tʃ a tʃ a	20	20	20	smoke-4	
+147	1-520-275-1	sun	Ese Ejja (Huarayo)	e-šeti	e-šeti	e + ʃ e t i	40 39	40 39	e + ʃ e t i	40 39	38 39	38 39	day-5 sun	
+150	12-630-275-1	thick (in dimension)	Ese Ejja (Huarayo)	kia-see	kia-see	k i a + s eː	88 89	45 89	k i a + s eː	88 89	45 89	45 89	_kia-prefix thick-8	
+151	12-650-275-1	thin (in dimension)	Ese Ejja (Huarayo)	kia-šiwi	kia-šiwi	k i a + ʃ i w i	102 97	45 97	k i a + ʃ i w i	102 97	45 97	45 97	_kia-prefix thin-5	
+160	1-840-280-1	ashes	Pacahuara	mišpo	mišpo	m i ʃ p o	26	26	m i ʃ + p o	26 314	70 236	70 236	small-5 dust-10	
+164	14-410-280-1	day	Pacahuara	waři	waři	w a r i	116	36	w a r i	116	36	36	sun-2	
+165	12-440-280-1	far (adv)	Pacahuara	nɨ'ama	nɨ'ama	n ɨ a m a	151	151	n ɨ a + m a	151 306	151 25	151 25	near-3 _not	
+158	1-810-280-1	fire	Pacahuara	čiʔi	čiʔi	tʃ i ʔ i	1	1	tʃ i ʔ i	1	1	1	fire-2	
+161	1-510-280-1	sky	Pacahuara	na'ipa	na'ipa	n a i p a	30	30	n a i + p a	29 33	29 33	29 33	sky-2 _pa-suffix	
+163	12-560-280-1	small, little	Pacahuara	mišni	mišni	m i ʃ n i	70	70	m i ʃ + n i	70 310	70 310	70 310	small-5 _ni-suffix	
+159	1-830-280-1	smoke (noun)	Pacahuara	ko'ʔina	ko'ʔina	k o ʔ i n a	19	19	k o ʔ i + n a	17 19	17 19	17 19	smoke-2 _na-suffix	
+162	1-520-280-1	sun	Pacahuara	waři	waři	w a r i	36	36	w a r i	36	36	36	sun-2	
+171	1-840-281-1	ashes	Shipibo-Conibo	čii-mapo	čii-mapo	tʃ iː + m a p o	22 23	1 23	tʃ iː + m a p o	22 23	1 23	1 23	fire-2 ashes-2	
+189	16-720-281-3	bad	Shipibo-Conibo	hakoma	hakoma	h a k o + m a	190 185	190 62	h a + k o + m a	309 190 185	309 190 25	309 190 25	good-11 good-9 _not	
+188	16-720-281-1	bad	Shipibo-Conibo	-koma	koma	k o m a	189	189	k o + m a	190 185	190 25	190 25	good-9 _not	
+190	16-720-281-5	bad	Shipibo-Conibo	mɨčo	mɨčo	m ɨ tʃ o	188	188	m ɨ tʃ o	188	188	188	bad-13	
+183	14-410-281-1	day	Shipibo-Conibo	nɨtɨ	nɨtɨ	n ɨ t ɨ	118	118	n ɨ t ɨ	118	118	118	day-2	
+167	1-213-281-3	dust	Shipibo-Conibo	mai-poto	mai-poto	m ai + p o t o	226 224	221 224	m ai + p o t o	226 224	221 224	221 224	earth earth-4	
+166	1-213-281-1	dust	Shipibo-Conibo	poto	poto	p o t o	224	224	p o t o	224	224	224	earth-4	
+192	13-140-281-3	every, all	Shipibo-Conibo	hatiβi	hatiβi	h a t i β i	208	208	h a t i β i	208	208	208	every-14	
+191	13-140-281-1	every, all	Shipibo-Conibo	-tiiβi	tiiβi	t iː β i	207	207	t iː β i	207	207	207	every-13	
+185	12-440-281-1	far (adv)	Shipibo-Conibo	očo	očo	o tʃ o	154	36	o tʃ o	154	16	16	far-10	
+168	1-810-281-1	fire	Shipibo-Conibo	čii	čii	tʃ iː	1	1	tʃ iː	1	1	1	fire-2	
+186	16-710-281-1	good	Shipibo-Conibo	hakõ	hakõ	h a k õ	163	163	h a + k õ	308 163	308 163	308 163	good-12 good-10	
+187	16-710-281-3	good	Shipibo-Conibo	hɨɨ	hɨɨ	h ɨː	169	169	h ɨː	157	157	157	good-6	
+174	12-550-281-1	large, big	Shipibo-Conibo	ani	ani	a n i	43	43	a n i	43	43	43	large-5	
+175	12-550-281-3	large, big	Shipibo-Conibo	aspa	aspa	a s p a	56	56	a s p a	56	56	56	large-10	
+176	12-550-281-5	large, big	Shipibo-Conibo	oe	oe	o e	51	51	o e	51	51	51	large-15	
+184	12-430-281-1	near (adv)	Shipibo-Conibo	očoma	očoma	o tʃ o + m a	136 125	136 62	o tʃ o + m a	136 125	16 25	16 25	far-10 _not	
+193	13-10-281-1	one	Shipibo-Conibo	wɨstiora	wɨstiora	w ɨ s t i o r a	218	218	w ɨ s t i + o r a	215 162	215 162	215 162	one-3 one-6	
+172	1-510-281-1	sky	Shipibo-Conibo	nai	nai	n ai	29	29	n ai	29	29	29	sky-2	
+177	12-560-281-1	small, little	Shipibo-Conibo	anima	anima	a n i + m a	63 62	43 62	a n i + m a	63 62	43 25	43 25	large-5 _not	
+178	12-560-281-3	small, little	Shipibo-Conibo	anitama	anitama	a n i + t a + m a	64 75 62	43 75 62	a n i + t a + m a	64 75 62	43 75 25	43 75 25	large-5 large-9 _not	
+179	12-560-281-5	small, little	Shipibo-Conibo	maṣ̌ko	maṣ̌ko	m a ʂ k o	76	76	m a ʂ k o	76	76	76	small-13	
+169	1-830-281-1	smoke (noun)	Shipibo-Conibo	koĩ	koĩ	k o iː	17	17	k o iː	17	17	17	smoke-2	
+170	1-830-281-3	smoke (noun)	Shipibo-Conibo	čii-koĩ	čii-koĩ	tʃ iː + k o iː	16 17	1 17	tʃ iː + k o iː	16 17	1 17	1 17	fire-2 smoke-2	
+173	1-520-281-1	sun	Shipibo-Conibo	βari	βari	β a r i	36	36	β a r i	36	36	36	sun-2	
+180	12-630-281-1	thick (in dimension)	Shipibo-Conibo	kɨṣ̌to	kɨṣ̌to	k ɨ ʂ t o	83	83	k ɨ ʂ t o	83	83	83	thick-3	
+181	12-650-281-1	thin (in dimension)	Shipibo-Conibo	ako	ako	a k o	103	103	a k o	103	103	103	thin-6	
+182	12-650-281-3	thin (in dimension)	Shipibo-Conibo	oši	oši	o ʃ i	110	110	o ʃ i	110	110	110	thin-11	
+198	1-840-276-1	ashes	Tacana	e-timo	e-timo	e + t i m o	28 21	28 21	e + t i m o	28 21	28 21	28 21	ashes-4 ashes	
+219	16-720-276-1	bad	Tacana	maða-da we	maða-da we	m a dʱ a + d a + w e	187 186 196	187 155 196	m a dʱ a + d a + w e	187 186 196	187 59 196	187 59 196	bad-12 _da-suffix _we-suffix	
+217	14-410-276-1	day	Tacana	c̷ine	c̷ine	ts i n e	119	119	ts i n e	119	119	119	day-9	
+194	1-213-276-1	dust	Tacana	epamo	epamo	e p a m o	235	235	e p a m o	235	235	235	dust-9	
+220	13-140-276-1	every, all	Tacana	pamapa	pamapa	p a m a p a	209	209	p a m a p a	209	209	209	every-12	
+216	12-440-276-1	far (adv)	Tacana	oke-da	oke-da	o k e + d a	145 155	145 155	o k e + d a	145 155	145 59	145 59	far _da-suffix	
+195	1-810-276-1	fire	Tacana	-ti	ti	t i	1	1	t i	1	1	1	fire-2	
+196	1-820-276-1	flame (noun)	Tacana	kʷati oc̷o	kʷati oc̷o	kʷ a t i + o ts o	12 13	12 13	kʷ a + t i + o ts o	12 7 13	2 1 13	2 1 13	fire fire-2 flame-8	
+218	16-710-276-1	good	Tacana	sai-da	sai-da	s ai + d a	168 166	168 155	s ai + d a	168 166	168 166	168 166	good good-2	
+202	12-550-276-3	large, big	Tacana	aða	aða	a dʱ a	49	49	a dʱ a	49	49	49	large-14	
+201	12-550-276-1	large, big	Tacana	aida	aida	ai d a	50	50	ai d a	50	50	50	large-13	
+203	12-550-276-5	large, big	Tacana	boc̷ama	boc̷ama	b o ts a m a	48	48	b o + ts a + m a	48 324 325	48 72 25	48 72 25	large-11 small _not	
+215	12-430-276-5	near (adv)	Tacana	e-naha-so	e-naha-so	e + n a h a + s o	140 139 143	140 139 143	e + n a h a + s o	140 139 143	140 139 143	140 139 143	near-9 near-10 near-11	
+213	12-430-276-1	near (adv)	Tacana	nari	nari	n a r i	137	137	n a r i	137	137	137	near-8	
+214	12-430-276-3	near (adv)	Tacana	weðoe	weðoe	w e dʱ o e	138	138	w e dʱ o e	138	138	138	near-7	
+221	13-10-276-1	one	Tacana	piada	piada	p i a d a	212	212	p i a + d a	212 213	212 59	212 59	one _da-suffix	
+199	1-510-276-1	sky	Tacana	boepa	boepa	b o e p a	31	31	b o e + p a	35 33	35 33	35 33	sky _pa-suffix	
+204	12-560-276-1	small, little	Tacana	konini	konini	k o n i n i	77	77	k o n i n i	77	77	77	small-12	
+205	12-560-276-3	small, little	Tacana	čidi	čidi	tʃ i d i	78	78	tʃ i d i	78	78	78	small-10	
+206	12-560-276-5	small, little	Tacana	waičidi	waičidi	w ai + tʃ i d i	79 78	79 78	w ai + tʃ i d i	79 78	79 78	79 78	small-11 small-10	
+197	1-830-276-1	smoke (noun)	Tacana	hodo	hodo	h o d o	15	15	h o d o	15	15	15	smoke	
+200	1-520-276-1	sun	Tacana	iď̶eti	iď̶eti	i dˀ e t i	41	41	i dˀ + e t i	41 39	41 39	41 39	sun-4 sun	
+207	12-630-276-1	thick (in dimension)	Tacana	ma(ʔ)aida	maʔaida	m a ʔ ai d a	90	90	m a ʔ ai + d a	90 82	90 59	90 59	thick-10 _da-suffix	
+208		thick (in dimension)	Tacana		maaida	m aː i d a	91	91	m aː i + d a	91 82	91 59	90 59	thick-11 _da-suffix	
+209	12-630-276-3	thick (in dimension)	Tacana	pamoda	pamoda	p a m o d a	92	92	p a m o + d a	92 82	92 59	92 59	thick _da-suffix	
+210	12-650-276-1	thin (in dimension)	Tacana	ma wai-čidi	ma wai-čidi	m a + w ai + tʃ i d i	99 104 109	62 104 78	m a + w ai + tʃ i d i	326 104 109	99 79 78	99 79 78	thin-12 small-11 small-10	
+212	12-650-276-5	thin (in dimension)	Tacana	ošori	ošori	o ʃ o r i	108	108	o ʃ o r i	108	108	108	thin-10	
+211	12-650-276-3	thin (in dimension)	Tacana	wiri-wiri	wiri-wiri	w i r i + w i r i	96 0	96 0	w i r i + w i r i	96 0	96 0	96 0	thin-9 _thin-9	
+228	1-840-282-1	ashes	Yaminahua	čii mapo	čii mapo	tʃ iː + m a p o	22 23	1 23	tʃ iː + m a p o	22 23	1 23	1 23	fire-2 ashes-2	
+243	16-720-282-1	bad	Yaminahua	čaka	čaka	tʃ a k a	191	191	tʃ a k a	191	191	191	bad-11	
+241	14-410-282-1	day	Yaminahua	pɨna	pɨna	p ɨ n a	120	120	p ɨ n a	120	120	120	day-8	
+224		dust	Yaminahua		bapo	b a p o	227	227	b a p o	227	227	227	dust-8	
+223	1-213-282-1	dust	Yaminahua	mapo [bapo]	mapo	m a p o	225	23	m a p o	225	23	23	ashes-2	
+222	1-212-282-1	earth=ground, soil	Yaminahua	mai	mai	m ai	221	221	m ai	221	221	221	earth	
+244	13-140-282-1	every, all	Yaminahua	kɨyo-kõi	kɨyo-kõi	k ɨ j o + k õ i	199 201	199 17	k ɨ j o + k õ i	199 201	199 201	199 201	every-4 every-3	
+240	12-440-282-1	far (adv)	Yaminahua	čai	čai	tʃ ai	156	135	tʃ ai	156	135	135	near-5	
+225	1-810-282-1	fire	Yaminahua	čii	čii	tʃ iː	1	1	tʃ iː	1	1	1	fire-2	
+226	1-820-282-1	flame (noun)	Yaminahua	toro	toro	t o r o	11	11	t o r o	11	11	11	flame-6	
+242	16-710-282-1	good	Yaminahua	šara	šara	ʃ a r a	167	167	ʃ a r a	167	107	107	good-8	
+232	12-550-282-1	large, big	Yaminahua	ɨβapa	ɨβapa	ɨ β a p a	47	47	ɨ + β a + p a	47 46 58	47 46 33	47 46 33	_i-prefix large-11 _pa-suffix	
+233	12-550-282-3	large, big	Yaminahua	-βa	βa	β a	46	46	β a	46	46	46	large-11	
+239	12-430-282-1	near (adv)	Yaminahua	čai-mašta	čai-mašta	tʃ ai + m a ʃ t a	135 141	135 141	tʃ ai + m a ʃ t a	135 141	135 141	135 141	near-5 _not-2	
+245	13-10-282-1	one	Yaminahua	βisti	βisti	β i s t i	215	215	β i s t i	215	215	215	one-3	
+230		sky	Yaminahua		dai	d ai	34	34	d ai	30	30	30	sky-5	
+229	1-510-282-1	sky	Yaminahua	nai [dai]	nai	n ai	29	29	n ai	29	29	29	sky-2	
+234	12-560-282-1	small, little	Yaminahua	pišta	pišta	p i ʃ t a	80	80	p i ʃ t a	71	71	71	small-6	
+227	1-830-282-1	smoke (noun)	Yaminahua	kõi	kõi	k õ i	17	17	k õ i	17	17	17	smoke-2	
+231	1-520-282-1	sun	Yaminahua	ṣ̌ini	ṣ̌ini	ʂ i n i	37	37	ʂ i n i	37	37	37	sun-3	
+235	12-630-282-1	thick (in dimension)	Yaminahua	nami	nami	n a m i	81	81	n a m i	81	81	81	thick-9	
+236	12-630-282-3	thick (in dimension)	Yaminahua	nami ṣ̌ini	nami ṣ̌ini	n a m i + ʂ i n i	81 93	81 37	n a m i + ʂ i n i	81 93	81 37	81 37	thick-9 sun-3	
+238	12-650-282-3	thin (in dimension)	Yaminahua	kaβa-šara	kaβa-šara	k a β a + ʃ a r a	106 107	106 107	k a β a + ʃ a r a	106 107	106 107	106 107	thin-8 good-8	
+237	12-650-282-1	thin (in dimension)	Yaminahua	βɨṣ̌ta	βɨṣ̌ta	β ɨ ʂ t a	105	105	β ɨ ʂ t a	105	105	105	thin-7	
